@@ -53,5 +53,4 @@ quiz-app/
     └── package.json
 ```
 
-## 🌐 Live Demo
-[Add your deployed link here]
+
